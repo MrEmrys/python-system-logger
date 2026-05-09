@@ -15,4 +15,4 @@ This project is a simple Python-based system activity logger developed for cyber
 - Linux Environment
 
 ## Purpose
-The project was created for educational purposes to improve understanding of logging systems, monitoring, and basic cybersecurity concepts.
+The project was created for educational purposes to improve understanding of logging systems, monitoring, and basic cybersecurity concepts. 
